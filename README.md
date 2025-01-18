@@ -16,11 +16,12 @@
 ## Projects
 
 ### Emotion Recognition System 
-[Publication](https://ieeexplore.ieee.org/document/10064996)
+
 **Technologies**: Deep learning, Python, Flask  
 -  Implemented an emotion recognition system using Python, Flask, and a modified CNN-based approach for real-time emotion detection.
 -  Achieved a 91% accuracy rate in classifying emotions.
 [Link](https://github.com/SardarBoy/MajorProject)
+-  [Publication](https://ieeexplore.ieee.org/document/10064996)
 
 ### DataFlowX  
 
