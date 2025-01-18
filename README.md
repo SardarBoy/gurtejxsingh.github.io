@@ -14,11 +14,13 @@
 
 
 ## Projects
+
 ### Emotion Recognition System 
 [Publication](https://ieeexplore.ieee.org/document/10064996)
 **Technologies**: Deep learning, Python, Flask  
 -  Implemented an emotion recognition system using Python, Flask, and a modified CNN-based approach for real-time emotion detection.
 -  Achieved a 91% accuracy rate in classifying emotions.
+[Link](https://github.com/SardarBoy/MajorProject)
 
 ### DataFlowX  
 
@@ -27,21 +29,23 @@
 -  The pipeline efficiently migrates data from an on-premises SQL Server to Azure Data Lake Gen 2, transforming the data with Azure Databricks and loading it into Azure Synapse for analysis.
 -  Implemented automated monitoring and error handling, ensuring a 99.5% success rate in data migrations.
 -  Visualised insights in Power BI, providing real-time dashboards for data-driven decision-making.
+[Link](https://github.com/SardarBoy/AzureDataEngineering1)
 
-
-## PW Skills Internship Project  
+### PW Skills Internship Project  
 **Technologies**: Python, Content-based Filtering, NLP, Streamlit  
 -  Developed a movie recommendation system using Python, content-based filtering, and NLP techniques.
 -  The application utilises user preferences to suggest similar movies with an accuracy rate of over 86%.
 -  Built an intuitive and interactive interface using Streamlit, allowing users to explore recommendations based on genre, mood, and past viewing habits.
+[Link](https://github.com/SardarBoy/recommendation.github.io)
 
-## Connectify 
+### Connectify 
 **Technologies**: Python (Flask), JavaScript (React), REST API  
 -  Developed a full-stack web application using Python (Flask) for the backend and JavaScript (React) for the frontend.
 -  A contact management system with CRUD functionality, leveraging REST API for seamless communication between the client and server.
 -  Implemented user authentication, search filters, and responsive design to enhance user experience.
+[Link](https://github.com/SardarBoy/ContactList)
 
-## Certificates
+### Certificates
 - **Microsoft Power BI Data Analyst Associate (PL-300)**
 - **Microsoft Azure AI Fundamentals (AI-900)**
 - **Google Cloud Digital Leader**
