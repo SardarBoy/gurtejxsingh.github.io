@@ -1,5 +1,10 @@
-# About ME ! ( [Portfolio](https://sardarboy.github.io/gurtejxsingh.github.io/) )
+# About ME ! ( [Portfolio](https://sardarboy.github.io/gurtejxsingh.github.io/))
 
+## Links
+-  [Repositories](https://github.com/SardarBoy)
+-  [Linkedin](https://www.linkedin.com/in/isgurtejsingh/)
+-  [Leetcode](https://leetcode.com/u/gurtejxsingh/)
+  
 #### Technical Skills: Python, SQL, R, Azure Data Factory, Azure Synapse Analytics, Power BI, Excel
 
 ## Education
@@ -56,8 +61,7 @@
 
   
 
-- [Linkedin](https://www.linkedin.com/in/isgurtejsingh/)
-- [Leetcode](https://leetcode.com/u/gurtejxsingh/)
+
   
 
   
