@@ -1,4 +1,4 @@
-# Data Scientist
+# About ME ! ( [Portfolio](https://sardarboy.github.io/gurtejxsingh.github.io/) )
 
 #### Technical Skills: Python, SQL, R, Azure Data Factory, Azure Synapse Analytics, Power BI, Excel
 
